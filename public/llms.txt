@@ -1,0 +1,20 @@
+# Kalahari Hertz
+
+> Kalahari Hertz is a leading IT service provider and technology consultancy based in Gaborone, Botswana. We specialize in managed IT services, cybersecurity, cloud solutions, IT governance, and custom website/portal development. We empower businesses, government entities, and NGOs with secure, scalable, and innovative technology solutions.
+
+## Services
+- [Managed IT Services](https://kalaharihertz.co.bw/#services): Proactive IT support, network administration, server management, and Microsoft 365 management.
+- [Cybersecurity](https://kalaharihertz.co.bw/#services): Risk assessments, vulnerability audits, ISO 27001 compliance readiness, and incident response planning.
+- [Website & Portals](https://kalaharihertz.co.bw/#services): Corporate websites, e-commerce platforms, customer portals, and HR management systems.
+- [Cloud & M365](https://kalaharihertz.co.bw/#services): Microsoft 365 deployment, Azure cloud solutions, SharePoint, and Teams administration.
+- [IT Governance](https://kalaharihertz.co.bw/#services): IT policies, risk registers, compliance audits, and technology assessments.
+- [Printer Rentals](https://kalaharihertz.co.bw/#services): High-performance printer rentals and managed print services for businesses in Botswana.
+
+## Company Information
+- Location: Plot 74212, Gaborone North, Botswana
+- Leadership: Boago Stix Otsetswe (Director & IT Specialist, SSCP, CC, IBM Cybersecurity Analyst)
+- Credentials: PPADB Registered Company
+- Contact: +267 74 076 795 | info@kalaharihertz.co.bw
+
+## Industries Served
+Government, NGOs, Education, Healthcare, Financial Services, Professional Services, Retail, Startups, and SMEs.
