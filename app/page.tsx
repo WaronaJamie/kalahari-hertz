@@ -535,14 +535,17 @@ export default function Home() {
                 Our<br />Collaboration
               </h2>
               
-              <div className="relative w-full aspect-[4/3] mb-8 rounded-2xl overflow-hidden shadow-2xl border border-gray-200">
-                <Image 
-                  src="/geoflux-collab.webp" 
-                  alt="Geoflux Collaboration" 
-                  fill 
-                  className="object-cover"
-                  priority
-                />
+              {/* FIXED IMAGE CONTAINER: object-contain and padding to ensure full image visibility on all devices */}
+              <div className="relative w-full aspect-[4/3] mb-8 rounded-2xl overflow-hidden shadow-2xl border border-gray-200 bg-white p-4 md:p-8">
+                <div className="relative w-full h-full">
+                  <Image 
+                    src="/geoflux-collab.webp" 
+                    alt="Geoflux Collaboration" 
+                    fill 
+                    className="object-contain"
+                    priority
+                  />
+                </div>
               </div>
 
               <p className="text-sm md:text-base text-gray-600 leading-relaxed mb-8">
